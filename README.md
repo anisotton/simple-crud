@@ -27,6 +27,12 @@ define( 'HOSTNAME', 'localhost' );
 define( 'DB_NAME', 'essentia' );
 define( 'DB_USER', 'root' );
 define( 'DB_PASSWORD', '' );
+```
+
+#### Demo:
+```
+URL: http://essentia.isotton.com.br/
+```
 
 Open source:
 - [PHP](http://php.net/)
