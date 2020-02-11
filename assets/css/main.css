@@ -1,0 +1,22 @@
+header {
+    background-image: url('../images/menu-fundo.png');
+    height: 120px;
+}
+
+header .navbar {
+    padding-top: 0px;
+}
+
+footer.page-footer {
+    background-color: #191919;
+    color: #EBFFFF;
+}
+
+.nav-link {
+    text-transform: uppercase;
+    color: #86754d;
+}
+
+.tower-file .tower-file-details::after, .tower-file .tower-file-details::before{
+    content: none;
+}
