@@ -29,8 +29,8 @@ define( 'DB_USER', 'root' );
 define( 'DB_PASSWORD', '' );
 ```
 
-#### Demo:
-- URL: [http://essentia.isotton.com.br/] (http://essentia.isotton.com.br/)
+Exemplo:
+[DEMO](http://essentia.isotton.com.br/)
 
 Open source:
 - [PHP](http://php.net/)
