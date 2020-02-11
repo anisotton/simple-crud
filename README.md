@@ -8,19 +8,24 @@ Ambiente:
 - [Apache 2.4.35](https://httpd.apache.org/)
 - [MySQL 5.7.24](https://www.mysql.com)
 
-#### InstalaÃ§Ã£o:
+#### Instalação:
 
-1) Clonar repositÃ³rio:
+1) Clonar repositório:
 ```
 $ git clone https://github.com/anisotton/essentia.git essentia
 ```
 
-2) Criar base de dados para aplicaÃ§Ã£o
+2) Criar base de dados para aplicação
 ```
 $ mysql>> CREATE DATABASE essentia;
 ```
 
-3) Configurar o arquivo: config.php
+3) Importar extrutura da base de dados
+```
+$ mysql>> essentia < installer/base.sql;
+```
+
+4) Configurar o arquivo: config.php
 ```
 define( 'APP_URI', 'http://localhost/essentia/' );
 define( 'HOSTNAME', 'localhost' );
