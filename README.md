@@ -1,4 +1,4 @@
-#  Simple GRUD Client
+#  Simple CRUD Client
 
 Esse repositorio contem o projeto de gerenciamento de clientes.
 
