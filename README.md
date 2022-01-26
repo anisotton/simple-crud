@@ -1,4 +1,4 @@
-#  Essentia Group - Simple GRUD Client
+#  Simple GRUD Client
 
 Esse repositorio contem o projeto de gerenciamento de clientes.
 
@@ -8,14 +8,14 @@ Ambiente:
 - [Apache 2.4.35](https://httpd.apache.org/)
 - [MySQL 5.7.24](https://www.mysql.com)
 
-#### Instalação:
+#### InstalaÃ§Ã£o:
 
-1) Clonar repositório:
+1) Clonar repositÃ³rio:
 ```
 $ git clone https://github.com/anisotton/essentia.git essentia
 ```
 
-2) Criar base de dados para aplicação
+2) Criar base de dados para aplicaÃ§Ã£o
 ```
 $ mysql>> CREATE DATABASE essentia;
 ```
